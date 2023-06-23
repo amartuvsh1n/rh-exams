@@ -10,4 +10,4 @@ container asaah\
 $ docker run -itd --name examV0001 -p 80:80 rhnginx:v0.01
 ```
 
-PS: redirect to [GitHub Topics](https://github.com/topics/rhcsa-exam).
+PS: redirect to [GitHub Topics](https://github.com/topics/rhcsa-exam)
